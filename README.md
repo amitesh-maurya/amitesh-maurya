@@ -1,4 +1,4 @@
-# ![Banner](Amitesh_Maurya-A_banner_digital_graphic_introduces.png)
+# ![Banner](amitesh-linkdin-cover-image.png)
 
 # Hey 👋, I'm Amitesh Maurya  
 
