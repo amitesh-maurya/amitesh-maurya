@@ -15,15 +15,18 @@
 ---
 
 ### 🛠️ Tech Stack  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
 ![Dlib](https://img.shields.io/badge/Dlib-008000?style=for-the-badge)  
 ![MTCNN](https://img.shields.io/badge/MTCNN-FF5722?style=for-the-badge)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
@@ -39,6 +42,12 @@
 ### 🔥 Projects  
 - **[Face Detection Pipeline](https://github.com/amitesh-maurya/face-detection-pipeline)** → Modular detection with multiple backends & Gradio UI  
 - **Research Work:** Digital Image Processing for Large-Scale Person Recognition  
+
+---
+
+### 🌍 Open Source Contributions  
+- **[Scientists Hub](https://scientistshub.com/)** → Knowledge-sharing platform for Science Articles  
+- **[Scientists Hub Tools](https://tools.scientistshub.com/)** → Free online utilities for scientific & technical tasks  
 
 ---
 
