@@ -1,3 +1,5 @@
+# ![Banner](Amitesh_Maurya-A_banner_digital_graphic_introduces.png)
+
 # Hey 👋, I'm Amitesh Maurya  
 
 **Full-Stack Developer (React.js, Next.js, Node.js, JS ) | Python | AI/ML & Computer Vision Researcher | Software Engineer |  Technical Writer | Freelancer**  
