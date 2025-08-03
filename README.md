@@ -1,6 +1,6 @@
 # Hey 👋, I'm Amitesh Maurya  
 
-**Developer | Computer Science Researcher | Writer**  
+**Full-Stack Developer (React.js, Next.js, Node.js, JS ) | Python | AI/ML & Computer Vision Researcher | Software Engineer |  Technical Writer | Freelancer**  
 *Turning ideas into impactful solutions with code & research.*  
 
 ---
