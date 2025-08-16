@@ -36,7 +36,10 @@ Beyond development, I focus on **Digital Image Processing**, **AI/ML models**, a
 ---
 
 ### 🔥 Projects  
-- **[Face Detection Pipeline](https://github.com/amitesh-maurya/face-detection-pipeline)** → Modular detection with multiple backends & Gradio UI  
+- **[Face Detection Pipeline](https://github.com/amitesh-maurya/face-detection-pipeline)** → Modular detection with multiple backends & Gradio UI
+- **[Face Recognition Pipeline](https://github.com/amitesh-maurya/face-recognition-pipeline)** → Modular Recognition with multiple backends & Gradio UI
+- **[Amitesh Portfolio](https://amiteshmaurya.com/)** → Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
+
 - **Research Work:** Digital Image Processing for Large-Scale Person Recognition  
 
 ---
