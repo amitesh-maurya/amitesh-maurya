@@ -3,8 +3,8 @@
 # Hey 👋, I'm Amitesh Maurya  
 
 **Full-Stack Developer (React.js, Next.js, Node.js, JS ) | Python | AI/ML & Computer Vision Researcher | Software Engineer |  Technical Writer | Freelancer**  
-*Turning ideas into impactful solutions with code & research.* 
-Check out my portfolio: [Amitesh Portfolio](https://amiteshmaurya.com/)** → built with Next.js, React, HTML5, CSS3, and JS (ES6+).
+*Turning ideas into impactful solutions with code & research.               
+*Check out my portfolio: [Amitesh Portfolio](https://amiteshmaurya.com/) - built with Next.js, React, HTML5, CSS3, and JS (ES6+).
 
 
 ---
