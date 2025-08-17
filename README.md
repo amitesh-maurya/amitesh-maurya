@@ -4,7 +4,7 @@
 
 **Full-Stack Developer (React.js, Next.js, Node.js, JS ) | Python | AI/ML & Computer Vision Researcher | Software Engineer |  Technical Writer | Freelancer**  
 *Turning ideas into impactful solutions with code & research.* 
-- **[Amitesh Portfolio](https://amiteshmaurya.com/)** → Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
+Check out my portfolio: [Amitesh Portfolio](https://amiteshmaurya.com/)** → built with Next.js, React, HTML5, CSS3, and JS (ES6+).
 
 
 ---
