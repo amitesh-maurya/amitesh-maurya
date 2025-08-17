@@ -54,12 +54,12 @@ Beyond development, I focus on **Digital Image Processing**, **AI/ML models**, a
 
 ### 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitesh-maurya)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://amiteshmaurya.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=#ffb0400)](https://amiteshmaurya.com)  
 
 ---
 
 ### 🐾 Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=amitesh-maurya&style=flat-square&color=blue)
 
 ---
 
