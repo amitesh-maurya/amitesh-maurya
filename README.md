@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me  ### 🚀 About Me  
+### 🚀 About Me 
 
 I’m a **React & Next.js Developer** and **Computer Vision Researcher** passionate about building **scalable digital solutions** and advancing innovation in **AI/ML & Image Processing**.  
 Currently, I’m developing a **Modular Face Detection Pipeline** leveraging **OpenCV, Dlib, MTCNN, and face_recognition** to enhance accuracy and real-time performance.  
