@@ -38,18 +38,19 @@ Beyond development, I focus on **Digital Image Processing**, **AI/ML models**, a
 ---
 
 ### 🔥 Projects  
-- **[Face Detection Pipeline](https://github.com/amitesh-maurya/face-detection-pipeline)** → Modular detection with multiple backends & Gradio UI
-- **[Face Recognition Pipeline](https://github.com/amitesh-maurya/face-recognition-pipeline)** → Modular Recognition with multiple backends & Gradio UI
 - **[Amitesh Portfolio](https://amiteshmaurya.com/)** → Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
-
-- **Research Work:** Digital Image Processing for Large-Scale Person Recognition  
+- **[Amitesh Dev](https://amitesh.dev/)** → Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
+- **[Amitesh Portfolio](https://project1.amitesh.dev/)** →  ShopEasy - A Modern E-commerce Platform! SQLite with Prisma ORM
+Authentication: NextAuth.js Next.js, React.js, HTML5, CSS3, JavaScript (ES6+) 
+- **[Amitesh Portfolio](https://project2.amitesh.dev/)** →  Admission Management System Authentication: NextAuth.js Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
+- **[Scientists Hub](https://scientistshub.com/)** → Knowledge-sharing platform for Science Articles  
+- **[Scientists Hub Tools](https://tools.scientistshub.com/)** → Free online utilities for scientific & technical tasks  
 
 ---
 
 ### 🌍 Open Source Contributions  
-- **[Scientists Hub](https://scientistshub.com/)** → Knowledge-sharing platform for Science Articles  
-- **[Scientists Hub Tools](https://tools.scientistshub.com/)** → Free online utilities for scientific & technical tasks  
-
+- **[Face Detection Pipeline](https://github.com/amitesh-maurya/face-detection-pipeline)** → Modular detection with multiple backends & Gradio UI
+- **[Face Recognition Pipeline](https://github.com/amitesh-maurya/face-recognition-pipeline)** → Modular Recognition with multiple backends & Gradio UI
 ---
 
 ### 📫 Connect With Me  
