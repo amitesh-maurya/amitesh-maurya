@@ -40,9 +40,9 @@ Beyond development, I focus on **Digital Image Processing**, **AI/ML models**, a
 ### 🔥 Projects  
 - **[Amitesh Portfolio](https://amiteshmaurya.com/)** → Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
 - **[Amitesh Dev](https://amitesh.dev/)** → Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
-- **[Amitesh Portfolio](https://project1.amitesh.dev/)** →  ShopEasy - A Modern E-commerce Platform! SQLite with Prisma ORM
+- **[E-commerce](https://project1.amitesh.dev/)** →  ShopEasy - A Modern E-commerce Platform! SQLite with Prisma ORM
 Authentication: NextAuth.js Next.js, React.js, HTML5, CSS3, JavaScript (ES6+) 
-- **[Amitesh Portfolio](https://project2.amitesh.dev/)** →  Admission Management System Authentication: NextAuth.js Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
+- **[Admission Management System Authentication](https://project2.amitesh.dev/)** →  Admission Management System Authentication: NextAuth.js Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
 - **[Scientists Hub](https://scientistshub.com/)** → Knowledge-sharing platform for Science Articles  
 - **[Scientists Hub Tools](https://tools.scientistshub.com/)** → Free online utilities for scientific & technical tasks  
 
