@@ -2,23 +2,22 @@
 
 # Hey 👋, I'm Amitesh Maurya  
 
-**Full-Stack Developer (React, Next.js, Node, JavaScript) | Python | Face Recognition & Detection Researcher | AI/ML & Computer Vision | Technical Writer | Freelancer**  
+**Full-Stack Web Developer for Startups | MCA ’27 | MERN, Next.js, JWT, NextAuth | Building CMS, E-Commerce, Chat Apps, Dashboards & AI-Powered Solutions | Technical Writer | Freelancer**  
 *Turning ideas into impactful solutions with code & research.               
 *Check out my portfolio: [Amitesh Portfolio](https://amiteshmaurya.com/) - built with Next.js, React, HTML5, CSS3, and JS (ES6+).
 
 
 ---
 
-### 🚀 About Me 
+## 🚀 About Me 
 
-I’m a **React & Next.js Developer** and **Computer Vision Researcher** passionate about building **scalable digital solutions** and advancing innovation in **AI/ML & Image Processing**.  
-Currently, I’m developing a **Modular Face Detection Pipeline** leveraging **OpenCV, Dlib, MTCNN, and face_recognition** to enhance accuracy and real-time performance.  
+### 💼 Full-Stack Web Development | Startup-Focused | 1+ Years Experience
+**I build startup-ready products — delivering CMS systems, e-commerce platforms, chat apps, and admin dashboards that are optimised for performance, security, and seamless user experience. I’m also an active Technical Writer and Freelancer, helping teams turn ideas into production-ready products.**
 
 Beyond development, I focus on **Digital Image Processing**, **AI/ML models**, and **image enhancement techniques**, contributing to **open-source projects** and publishing **research-driven solutions**.  
 
-- 🔭 **Current Focus:** Building a modular **Face Detection Pipeline** (OpenCV, Dlib, MTCNN & face_recognition)  
-- 📚 **Research Areas:** Digital Image Processing, Computer Vision, AI/ML, Image Enhancement & Edge Detection  
-- 💻 **Developer Skills:**  
+- 🔭 **Full-Stack Development:** I build startup-ready products—from CMS and E-Commerce platforms to real-time Chat Apps and AI-powered tools. My focus is always on performance, security, and a seamless user experience.
+ - 💻 **Developer Skills:**  
   - **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   - **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
   - **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
