@@ -29,9 +29,9 @@ Beyond development, I focus on **Digital Image Processing**, **AI/ML models**, a
 ---
  
 ### 📊 GitHub Stats & Activity  
-![Amitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitesh-maurya&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh-maurya&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitesh-maurya&theme=radical)  
+![Amitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitesh-maurya&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats-amitesh.vercel.app?user=amitesh-maurya&theme=radical)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitesh-maurya&theme=react-dark)  
 
 ---
