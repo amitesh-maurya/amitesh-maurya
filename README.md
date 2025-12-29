@@ -1,30 +1,82 @@
 # ![Banner](amitesh-maurya-linkdin-cover-banner.png)
 
-# Hey 👋, I'm Amitesh Maurya  
+# 👋 Hey, I’m Amitesh Maurya  
 
-**Full-Stack Web Developer for Startups | MCA ’27 | MERN, Next.js, JWT, NextAuth | Building CMS, E-Commerce, Chat Apps, Dashboards & AI-Powered Solutions | Technical Writer | Freelancer**  
-*Turning ideas into impactful solutions with code & research.               
-*Check out my portfolio: [Amitesh Portfolio](https://amiteshmaurya.com/) - built with Next.js, React, HTML5, CSS3, and JS (ES6+).
+**Full-Stack Developer | MERN, Next.js, React Native, Python | MCA ’27**  
+🚀 Building scalable Web & Mobile apps for startups  
+✍️ Technical Writer | Freelancer  
 
+🔗 Portfolio: https://amiteshmaurya.com  
+*Built with Next.js, React, modern CSS & JavaScript*
 
 ---
 
-## 🚀 About Me 
+## 🚀 About Me  
 
-### 💼 Full-Stack Web Development | Startup-Focused | 1+ Years Experience
-**I build startup-ready products — delivering CMS systems, e-commerce platforms, chat apps, and admin dashboards that are optimised for performance, security, and seamless user experience. I’m also an active Technical Writer and Freelancer, helping teams turn ideas into production-ready products.**
+I’m a **startup-focused Full-Stack Developer** with **1+ year of hands-on experience** building **production-ready applications** — from CMS platforms and e-commerce systems to chat apps, dashboards, and AI-powered tools.
 
-Beyond development, I focus on **Digital Image Processing**, **AI/ML models**, and **image enhancement techniques**, contributing to **open-source projects** and publishing **research-driven solutions**.  
+I care deeply about **clean architecture, performance, security, and user experience**.  
+Currently pursuing **MCA ’27**, always shipping, learning, and improving.
 
-- 🔭 **Full-Stack Development:** I build startup-ready products—from CMS and E-Commerce platforms to real-time Chat Apps and AI-powered tools. My focus is always on performance, security, and a seamless user experience.
- - 💻 **Developer Skills:**  
-  - **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-  - **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
-  - **DevOps & Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
-  - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-- ✍️ **Content Creation:** Writing about tech, research, and dev hacks  
-- 🎯 **Goal:** Building scalable digital solutions & contributing to open-source  
+Alongside development, I actively work with **Computer Vision, Image Processing, and Local AI systems**, and contribute to **open-source projects**.
+
+---
+
+## 💼 What I Do  
+
+- Build **scalable Web & Mobile applications**
+- Design **CMS, Admin Dashboards & E-commerce systems**
+- Implement **Authentication (JWT, NextAuth, RBAC)**
+- Develop **AI-powered & Image Processing solutions**
+- Write **technical articles & documentation**
+---
+## 💻 **Development Skills:**  
+
+- **Frontend & Mobile:**  
+    ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+    ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+    ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ - **Backend & APIs:**  
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+    ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Authentication & Security:**  
+    ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+    ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+- **Databases & Storage:**  
+    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+    ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+- **AI, Computer Vision & Image Processing:**  
+    ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+    ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0A192F?style=flat-square)
+    ![Image Processing](https://img.shields.io/badge/Image_Processing-1E293B?style=flat-square)
+    ![Face Recognition](https://img.shields.io/badge/Face_Recognition-0F172A?style=flat-square)
+    ![Local AI](https://img.shields.io/badge/Local_AI-020617?style=flat-square)
+
+- **DevOps & Tools:**  
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+    ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+- ✍️ **Content Creation:**  
+  ![Technical Writing](https://img.shields.io/badge/Technical_Writing-0B3C5D?style=flat-square)
+  ![Research](https://img.shields.io/badge/Research-1E40AF?style=flat-square)
+
+- 🎯 **Goal:**  
+  ![Scalable Apps](https://img.shields.io/badge/Scalable_Web_&_Mobile_Apps-0F172A?style=flat-square)
+  ![Open Source](https://img.shields.io/badge/Open_Source-Contributions-020617?style=flat-square)
+
 
 ---
  
@@ -36,19 +88,33 @@ Beyond development, I focus on **Digital Image Processing**, **AI/ML models**, a
 
 ---
 
-### 🔥 Projects  
-- **[Amitesh Portfolio](https://amiteshmaurya.com/)** → Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
-- **[E-commerce](https://project1.amitesh.dev/)** →  ShopEasy - A Modern E-commerce Platform! SQLite with Prisma ORM
-Authentication: NextAuth.js Next.js, React.js, HTML5, CSS3, JavaScript (ES6+) 
-- **[Admission Management System Authentication](https://project2.amitesh.dev/)** →  Admission Management System Authentication: NextAuth.js Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
-- **[Scientists Hub](https://scientistshub.com/)** → Knowledge-sharing platform for Science Articles  
-- **[Scientists Hub Tools](https://tools.scientistshub.com/)** → Free online utilities for scientific & technical tasks  
+## 🛠️ Featured Projects  
+
+🔹 **[Portfolio Website](https://amiteshmaurya.com)**  
+Next.js • NextAuth • Responsive UI  
+
+🔹 **[ScientistsHub](https://scientistshub.com)**  
+Full-stack science platform with custom CMS, SSR, SEO & APIs  
+
+🔹 **[ScientistsHub Tools](https://tools.scientistshub.com)**  
+Online utility tools (Converters, Calculators, etc.)  
+
+🔹 **SAM AI Module**  
+Modular AI system with memory, tools & workflow-based logic  
+
+🔹 **Custom CMS**  
+JWT Auth • Role-based access • Rich text editor (MDX support)  
 
 ---
 
-### 🌍 Open Source Contributions  
-- **[Face Detection Pipeline](https://github.com/amitesh-maurya/face-detection-pipeline)** → Modular detection with multiple backends & Gradio UI
-- **[Face Recognition Pipeline](https://github.com/amitesh-maurya/face-recognition-pipeline)** → Modular Recognition with multiple backends & Gradio UI
+## 🌍 Open Source  
+
+- 🔍 **[Face Detection Pipeline](https://github.com/amitesh-maurya/face-detection-pipeline)**  
+  Modular detection with multiple backends + Gradio UI  
+
+- 🧠 **[Face Recognition Pipeline](https://github.com/amitesh-maurya/face-recognition-pipeline)**  
+  Modular recognition with extensible architecture  
+
 ---
 
 ### 📫 Connect With Me  
